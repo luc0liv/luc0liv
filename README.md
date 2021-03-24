@@ -1,12 +1,12 @@
 ### Hey, there! :sparkles:
 ### My name is Luciana Oliveira :smiley_cat:
 ### I'm 27 and my interests include technology, brand strategy, marketing, writing, pop culture and music! :ghost: :guitar:
-<br><br>
+<br>
 
-<center>
-  📫How to reach me: <br> <br>
-  <a href="https://www.linkedin.com/in/lucoliv/"><img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg></a> 
-</center>
+
+<p align=center> :mailbox: How to reach me: <br> <br>
+  <a href="https://www.linkedin.com/in/lucoliv/"><img width="200px" src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg></a> </p>
+
 
 
 <p align="center" >🌱 I’m currently learning ...<br><br>
