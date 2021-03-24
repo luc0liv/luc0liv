@@ -4,12 +4,12 @@
 <br>
 
 
-<p align=center> :mailbox: How to reach me: <br> <br>
+<p> :mailbox: How to reach me: <br> <br>
   <a href="https://www.linkedin.com/in/lucoliv/"><img width="200px" src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg></a> </p>
 
 
 
-<p align="center" >🌱 I’m currently learning ...<br><br>
+<p>🌱 I’m currently learning ...<br><br>
   <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg>
   <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg>
   <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg>
