@@ -1,10 +1,16 @@
-### Hey, there! 
+### Hey, there! :sparkles:
 ### My name is Luciana Oliveira :smiley_cat:
 ### I'm 27 and my interests include technology, brand strategy, marketing, writing, pop culture and music! :ghost: :guitar:
+<br><br>
+
+<center>
+  📫How to reach me: <br> <br>
+  <a href="https://www.linkedin.com/in/lucoliv/"><img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg></a> 
+</center>
 
 
 <p align="center" >🌱 I’m currently learning ...<br><br>
-<img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg>
+  <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg>
   <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg>
   <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg>
   <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg>
@@ -14,14 +20,17 @@
   <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs.svg>
   </p>
   
- <p align="center"> 
-    
-📫How to reach me: <br> <br> 
-<a href="https://www.linkedin.com/in/lucoliv/"><img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg></a> </p>
 
- ![Luciana GitHub Stats](https://github-readme-stats.vercel.app/api?username=luc0liv&show_icons=true)
 
-[![HitCount](http://hits.dwyl.com/luc0liv/{project}.svg)](http://hits.dwyl.com/luc0liv/{project})
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc0liv&hide=html&layout=compact&theme=synthwave" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=luc0liv&theme=synthwave"/></td>
+    </tr>   
+</table>
+</center>  
+
 
 <!--
 **luc0liv/luc0liv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
