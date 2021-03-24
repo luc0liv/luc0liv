@@ -3,13 +3,17 @@
 ### I'm 27 and my interests include technology, brand strategy, marketing, writing, pop culture and music! :ghost: :guitar:
 <br>
 
+<p> 
+  :mailbox: How to reach me: 
+  <br> 
+  <br>
+  <a href="https://www.linkedin.com/in/lucoliv/"><img width="200px" src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg></a> 
+</p>
 
-<p> :mailbox: How to reach me: <br> <br>
-  <a href="https://www.linkedin.com/in/lucoliv/"><img width="200px" src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg></a> </p>
-
-
-
-<p>🌱 I’m currently learning ...<br><br>
+<p>
+  🌱 I’m currently learning ...
+  <br>
+  <br>
   <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg>
   <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg>
   <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg>
@@ -18,10 +22,8 @@
   <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg>
   <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg>
   <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs.svg>
-  </p>
+ </p>
   
-
-
 <center>
 <table>
     <tr>
@@ -29,7 +31,8 @@
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=luc0liv&theme=synthwave"/></td>
     </tr>   
 </table>
-</center>  
+</center> 
+
 
 
 <!--
