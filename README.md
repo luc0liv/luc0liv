@@ -7,7 +7,7 @@
   :mailbox: How to reach me: 
   <br> 
   <br>
-  <a href="https://www.linkedin.com/in/lucoliv/"><img width="200px" src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg></a> 
+  <a href="https://www.linkedin.com/in/lucoliv/" target="_blank"><img width="200px" src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg></a> 
 </p>
 
 <p>
