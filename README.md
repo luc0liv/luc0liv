@@ -1,29 +1,29 @@
 ### Hey, there! :sparkles:
 ### My name is Luciana Oliveira :smiley_cat:
 ### I'm 27 and my interests include technology, brand strategy, marketing, writing, pop culture and music! :ghost: :guitar:
-<br>
+<hr>
 
-<p> 
-  :mailbox: How to reach me: 
-  <br> 
-  <br>
-  <a href="https://www.linkedin.com/in/lucoliv/" target="_blank"><img width="200px" src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg></a> 
-</p>
-
-<p>
-  🌱 I’m currently learning ...
-  <br>
-  <br>
-  <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg>
-  <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg>
-  <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg>
-  <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg>
-  <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/php.svg>
-  <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg>
-  <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg>
-  <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs.svg>
- </p>
-  
+  <p> 
+    :mailbox: How to reach me: 
+    <br> 
+    <br>
+    <a href="https://www.linkedin.com/in/lucoliv/" target="_blank"><img width="200px" src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg></a> 
+  </p>
+<hr>
+  <p>
+    🌱 I’m currently learning ...
+      <br>
+      <br>
+      <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg>
+      <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg>
+      <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg>
+      <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg>
+      <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/php.svg>
+      <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg>
+      <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg>
+      <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs.svg>
+   </p>
+  <hr>
 <center>
 <table>
     <tr>
