@@ -1,13 +1,14 @@
 ### Hey, there! :sparkles:
-### My name is Luciana Oliveira :smiley_cat:
-### I'm 27 and my interests include technology, brand strategy, marketing, writing, pop culture and music! :ghost: :guitar:
+### My name is Luciana Oliveira, but you can call me Lu! :smiley_cat:
+### I'm 27 and my interests include technology, marketing, writing, pop culture and music! :ghost: :guitar:
+### Pronouns: she/her | ela/dela 😉
 <hr>
 
   <p> 
     :mailbox: How to reach me: 
     <br> 
     <br>
-    <a href="https://www.linkedin.com/in/lucoliv/" target="_blank"><img width="200px" src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg></a> 
+    <a href="https://www.linkedin.com/in/lucoliv/" target="_blank"><img width="150px" src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg></a> 
   </p>
 <hr>
   <p>
