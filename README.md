@@ -1,6 +1,6 @@
 ### Hey, there! :sparkles:
 ### My name is Luciana Oliveira, but you can call me Lu! :smiley_cat:
-#### I'm a Front-end developer 27 and my interests include technology, marketing, writing, pop culture and music!
+#### I'm a Front-end developer and my interests include technology, marketing, writing, pop culture and music!
 #### Pronouns: she/her | ela/dela 😉
 <hr>
 
