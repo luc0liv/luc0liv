@@ -1,28 +1,28 @@
 ### Hey, there! :sparkles:
 ### My name is Luciana Oliveira, but you can call me Lu! :smiley_cat:
-### I'm 27 and my interests include technology, marketing, writing, pop culture and music! :ghost: :guitar:
-### Pronouns: she/her | ela/dela 😉
+#### I'm a Front-end developer 27 and my interests include technology, marketing, writing, pop culture and music!
+#### Pronouns: she/her | ela/dela 😉
 <hr>
 
   <p> 
     :mailbox: How to reach me: 
     <br> 
     <br>
-    <a href="https://www.linkedin.com/in/lucoliv/" target="_blank"><img width="150px" src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg></a> 
+    <a href="https://www.linkedin.com/in/lucoliv/" target="_blank"><img width="150px" src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white></a> 
   </p>
 <hr>
   <p>
-    🌱 I’m currently learning ...
-      <br>
-      <br>
-      <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg>
-      <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg>
-      <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg>
-      <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg>
-      <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/php.svg>
-      <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg>
-      <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg>
-      <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs.svg>
+      <img src=https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white>
+      <img src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white>
+      <img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black>
+      <img src=https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D>
+      <img src=https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white>
+      <img src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB>
+      <img src=https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white>
+      <img src=https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white>      
+      <img src=https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white>
+      <img src=https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white>
+      
    </p>
   <hr>
 <center>
@@ -41,7 +41,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
